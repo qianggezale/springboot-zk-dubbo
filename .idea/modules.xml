@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-domian/dubbo-domian.iml" filepath="$PROJECT_DIR$/dubbo-domian/dubbo-domian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-customer/service-customer.iml" filepath="$PROJECT_DIR$/service-customer/service-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/service-provider/service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-zk-dubbo.iml" filepath="$PROJECT_DIR$/.idea/springboot-zk-dubbo.iml" />
+    </modules>
+  </component>
+</project>
